@@ -1,0 +1,73 @@
+.img_song_of_singer{
+    height: 60px;
+}
+
+.name_singer{
+    color: #444444; 
+    text-decoration: none !important;
+    font-size: 12px;
+}
+
+.name_singer:hover {
+    color: #0689ba !important;
+}
+
+.name_album{
+    color: #444444; 
+    text-decoration: none !important;
+}
+
+.name_album:hover{
+    color: #0689ba !important;
+}
+
+.singer{
+    color: #444444; 
+    text-decoration: none !important;
+    font-size: 16px;
+}
+
+.singer:hover {
+    color: #0689ba !important;
+}
+
+.singer_album{
+    color: #444444; 
+    text-decoration: none !important;
+    font-size: 24px;
+}
+
+.singer_album:hover {
+    color: #0689ba !important;
+}
+
+@media screen and (max-width: 600px) {
+    #search{
+        width: 200px;
+    }
+}
+
+.singer_dump{
+    color: #444444; 
+    text-decoration: none !important;
+    font-size: 30px;
+}
+
+.singer_dump:hover {
+    color: #0689ba !important;
+}
+
+.buttonn{
+    color: black; 
+    text-decoration: none !important;
+    font-size: 16px;
+}
+
+.buttonn:hover {
+    color: black !important;
+}
+
+.follow{
+    color: #0689ba !important;;
+    font-size: 16px;
+}
